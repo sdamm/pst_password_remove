@@ -1,6 +1,10 @@
 #ifndef MICROSOFT_PST_PST_CRC_H
 #define MICROSOFT_PST_PST_CRC_H
 
+/*
+ * Taken from https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/39c35207-130f-4d83-96f8-2b311a285a8f
+ */
+
 #include <stdint.h>
 
 #ifdef __cplusplus
