@@ -1,5 +1,12 @@
 #include <libpst_internal.h>
 
+/**
+ * libpst_internal.h
+ *
+ * Things that already exist in libpst but are
+ * not part of the interface.
+ */
+
 #include <zlib.h>
 
 /** for "compressible" encryption, just a simple substitution cipher,
